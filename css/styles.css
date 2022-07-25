@@ -34,10 +34,13 @@ body{
 .edit-icon{
     color: #007bff;
 }
+.delete-form{
+    display: inline-block;
+}
 .delete-icon{
     color: #bd2130;
 }
-.delete-btn{
+.delete-form button{
     background-color: transparent;
     border: none;
     padding: 0;
